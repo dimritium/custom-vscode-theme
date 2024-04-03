@@ -1,0 +1,21 @@
+{
+  "name": "custom-pastel-underwater",
+  "displayName": "Custom Pastel Underwater",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pastel underwater",
+        "uiTheme": "vs",
+        "path": "./themes/pastel underwater-color-theme.json"
+      }
+    ]
+  }
+}
