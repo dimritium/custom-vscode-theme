@@ -1,7 +1,7 @@
 {
-  "name": "custom-pastel-underwater",
+  "name": "pastel-underwater-contrast",
   "displayName": "Custom Pastel Underwater",
-  "description": "",
+  "description": "Pastel coloured theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
@@ -17,5 +17,7 @@
         "path": "./themes/pastel underwater-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "Shubhankar Dimri",
+  "repository": {"type": "git", "url": "https://github.com/dimritium/custom-vscode-theme.git"}
 }
