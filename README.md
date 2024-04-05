@@ -1,6 +1,6 @@
 # Pastel Underwater Light Contrast
 ## Screenshot
-![Theme Screenshot](image.png)
+![Theme Screenshot](image-1.png)
 
 
 ## Working with Markdown
